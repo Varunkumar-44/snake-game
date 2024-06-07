@@ -1,0 +1,12 @@
+{
+    "folders": [
+        {
+            "path": "c projects"
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "kjsf": "c"
+        }
+    }
+}
